@@ -1,3 +1,71 @@
+/* h2{
+    color: red !important; /* !ni mala ni buena practica */
+/* } */
+body{
+ /*    background-image: url(../img/colectivo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    background-color: gray;
+}
+h2{
+    color: rebeccapurple;
+}
+
+.inicioHija h2{
+    color: rgb(253, 131, 0);
+    background-color: black;
+    text-align: center;
+    border-radius: 20px 0px;
+}
+
+.video video{
+    display: block;
+    margin-left:100px;
+    width: 800px;
+   
+}
+/* .parrafo p{
+    color: brown;
+} */
+
+.inicioHija p{
+    color: black;
+}
+/* #inicioPadre h2{
+    color: aqua;
+}
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
