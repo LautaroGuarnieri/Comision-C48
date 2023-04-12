@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 /* h2{
     color: red !important; /* !ni mala ni buena practica */
 /* } */
@@ -5,7 +10,7 @@ body{
  /*    background-image: url(../img/colectivo.jpg);
     background-repeat: no-repeat;
     background-size: 100%; */
-    background-color: gray;
+    background-color: rgb(196, 147, 147);
 }
 h2{
     color: rebeccapurple;

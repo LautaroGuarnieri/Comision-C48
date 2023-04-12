@@ -1,0 +1,23 @@
+/* *METODO ANTIGUO  */
+/* .hija{
+    float: left;
+    margin-top: 60px;
+    margin-left: 20px ;
+    margin: 20px 40px;
+    background-color: aqua;
+} */
+
+.padre{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+/* .hija{
+    align-content:center ;
+} */
+
+.card-text{
+    color: black;
+    font-size: 3rem;
+}
