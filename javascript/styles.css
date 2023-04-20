@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    color: black;
+    background-color: yellow;
+    padding: 10px 0px;
+    font-family: cursive;
+}
